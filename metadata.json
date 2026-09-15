@@ -1,0 +1,8 @@
+{
+  "name": "SchemaAI - Database Architect",
+  "description": "AI-powered database schema generator and visualizer. Describe your project and get a professional database architecture with visual relationship diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
